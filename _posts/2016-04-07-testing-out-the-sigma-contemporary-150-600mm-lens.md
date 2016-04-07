@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Testing out the Sigma Contemporary 150-600mm lens
-datePublished: '2016-04-07T08:10:49.369Z'
-dateModified: '2016-04-07T08:06:21.179Z'
-title: ''
+datePublished: '2016-04-07T08:21:17.477Z'
+dateModified: '2016-04-07T08:21:16.494Z'
+title: Sigma Contemporary 150-600mm
 author: []
 sourcePath: _posts/2016-04-07-testing-out-the-sigma-contemporary-150-600mm-lens.md
 published: true
