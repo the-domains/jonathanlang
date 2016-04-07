@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Purple Fringe
-datePublished: '2016-04-07T07:54:56.538Z'
-dateModified: '2016-04-07T07:48:33.144Z'
-title: ''
+datePublished: '2016-04-07T08:06:41.534Z'
+dateModified: '2016-04-07T07:55:53.335Z'
+title: Our new podcast
 author: []
 sourcePath: _posts/2016-04-07-the-purple-fringe.md
 published: true
