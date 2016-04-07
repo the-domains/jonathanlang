@@ -4,8 +4,15 @@
         <description><![CDATA[Jonathan Lang - Digital Media Guy]]></description>
         <link>https://thegrid.ai/jonathanlang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 08:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 08:15:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonathanlang/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a third post]]></title>
+            <description><![CDATA[<h1>This is a third post</h1>]]></description>
+            <link>https://thegrid.ai/jonathanlang/this-is-a-third-post/index.html</link>
+            <guid isPermaLink="false">38588d1e-3c05-43b1-9ca7-211505a7573e</guid>
+            <pubDate>Thu, 07 Apr 2016 08:15:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79ed32e2-c9f5-4161-ac03-eb1a4bfdb786.jpg">]]></description>
