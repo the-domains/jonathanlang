@@ -4,7 +4,7 @@
         <description><![CDATA[Jonathan Lang - Digital Media Guy]]></description>
         <link>https://thegrid.ai/jonathanlang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 08:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 08:06:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonathanlang/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Thu, 07 Apr 2016 08:06:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Purple Fringe</p>]]></description>
+            <title><![CDATA[Our new podcast]]></title>
+            <description><![CDATA[<article><h1>Our new podcast</h1><p>The Purple Fringe</p></article>]]></description>
             <link>https://thegrid.ai/jonathanlang/the-purple-fringe/index.html</link>
             <guid isPermaLink="false">226ad1fa-7881-4335-af8a-a72e9aedb9d5</guid>
-            <pubDate>Thu, 07 Apr 2016 07:54:56 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 08:06:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
