@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing out the Sigma Contemporary 150-600mm lens
-datePublished: '2016-04-07T08:06:11.231Z'
-dateModified: '2016-04-07T08:03:51.483Z'
+datePublished: '2016-04-07T08:10:49.369Z'
+dateModified: '2016-04-07T08:06:21.179Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-07-testing-out-the-sigma-contemporary-150-600mm-lens.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-testing-out-the-sigma-contemporary-150-600mm-lens.md
-published: true
 url: testing-out-the-sigma-contemporary-150-600mm-lens/index.html
 _type: Article
 
