@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Purple Fringe
-datePublished: '2016-04-07T07:48:26.757Z'
-dateModified: '2016-04-07T07:48:16.052Z'
+datePublished: '2016-04-07T07:54:56.538Z'
+dateModified: '2016-04-07T07:48:33.144Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-07-the-purple-fringe.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-the-purple-fringe.md
-published: true
 url: the-purple-fringe/index.html
 _type: Article
 
